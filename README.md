@@ -15,5 +15,5 @@
 This project was created by the Flutter programmer.
 
 If you like this project, please contact us: 
-alixurshetov@gmail.com
+alixurshetov@gmail.com \n
 osoliyev408@gmail.com
