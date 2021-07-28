@@ -10,15 +10,10 @@
 <a href="https://ibb.co/mB0kCW4"><img src="https://i.ibb.co/BPGbVMB/photo-2021-07-28-07-57-40.jpg" alt="photo-2021-07-28-07-57-40" border="0" width="100"></a><br /><a target='_blank' href='https://the-crosswordsolver.com/swiss-canton-of-william-tell-fame-3-letters'>swiss tourist center crossword</a><br />
 <a href="https://ibb.co/PDcGBrP"><img src="https://i.ibb.co/GHWQgd8/photo-2021-07-28-07-57-38.jpg" alt="photo-2021-07-28-07-57-38" border="0" width="100"></a>
 
-## Getting Started
+## Let us run our project
 
-This project is a starting point for a Flutter application.
+This project was created by the Flutter programmer.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you like this project, please contact us: 
+alixurshetov@gmail.com
+osoliyev408@gmail.com
