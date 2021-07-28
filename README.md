@@ -1,6 +1,7 @@
-# qurann
+# Quran App Project
 
 A new Flutter project.
+<a href="https://ibb.co/hL0fc6v"><img src="https://i.ibb.co/HBZdCSQ/photo-2021-07-28-07-57-47.jpg" alt="photo-2021-07-28-07-57-47" border="0" width="100"></a>
 
 ## Getting Started
 
