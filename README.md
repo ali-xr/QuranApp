@@ -7,7 +7,7 @@
 <a href="https://ibb.co/GJcDkjS"><img src="https://i.ibb.co/TTmGR53/photo-2021-07-28-07-57-43.jpg" alt="photo-2021-07-28-07-57-43" border="0" width="100"></a>
 <a href="https://ibb.co/JFZWYS1"><img src="https://i.ibb.co/HpZLc9S/photo-2021-07-28-07-57-42.jpg" alt="photo-2021-07-28-07-57-42" border="0" width="100"></a>
 <a href="https://ibb.co/xM5X8cP"><img src="https://i.ibb.co/0fJmVW8/photo-2021-07-28-07-57-44.jpg" alt="photo-2021-07-28-07-57-44" border="0" width="100"></a>
-<a href="https://ibb.co/mB0kCW4"><img src="https://i.ibb.co/BPGbVMB/photo-2021-07-28-07-57-40.jpg" alt="photo-2021-07-28-07-57-40" border="0" width="100"></a><br /><a target='_blank' href='https://the-crosswordsolver.com/swiss-canton-of-william-tell-fame-3-letters'>swiss tourist center crossword</a><br />
+<a href="https://ibb.co/mB0kCW4"><img src="https://i.ibb.co/BPGbVMB/photo-2021-07-28-07-57-40.jpg" alt="photo-2021-07-28-07-57-40" border="0" width="100"></a>
 <a href="https://ibb.co/PDcGBrP"><img src="https://i.ibb.co/GHWQgd8/photo-2021-07-28-07-57-38.jpg" alt="photo-2021-07-28-07-57-38" border="0" width="100"></a>
 
 ## Let us run our project
